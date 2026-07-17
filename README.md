@@ -1,42 +1,31 @@
-# 数据集名称（英文）
+# DATA
 
-## 简介
-本仓库为论文《XXX》配套的原始数据集说明。
+## Introduction
+-This repository contains the documentation for the raw dataset associated with the paper'Name...'
 
-## 论文信息
-- 标题：XXX
-- 作者：XXX, XXX
-- 发表：XXX 期刊/会议，202X
 
-## 数据概览
-- 数据类型：XXX（如：滑坡监测数据/岩土实验数据/地震波形数据）
-- 采集时间：XXXX年XX月 - XXXX年XX月
-- 采集地点：XXX
-- 文件大小：约 XX GB
-- 文件格式：CSV / TXT / MAT / ...
+## Paper Information
+- Title: XXX
+- Authors: XXX, XXX
 
-## 数据下载
-完整原始数据集已上传至百度网盘：
-- 链接：https://pan.baidu.com/s/你的链接
-- 提取码：xxxx
-- 文件大小：XX GB
+## Data Download
+- The complete raw dataset is hosted on Baidu Netdisk:
+- Link:https://pan.baidu.com/s/1AzstPxQNW-eOv1Axb6Zfeg
+- Access code: t486
+- File size：2.02 GB
 
-## 数据字段说明
-| 字段名 | 含义 | 单位 |
-|--------|------|------|
-| time   | 时间 | - |
-| x      | X方向位移 | mm |
-| ...    | ... | ... |
+## Data Fields Description
+- Description
 
-## 使用说明
-1. 下载后解压
-2. 数据为原始采集数据，未做预处理
-3. 使用请引用本论文
 
-## 引用
-如果使用了本数据，请引用：
-> 作者. 论文标题[J]. 期刊名, 年份.
+## Usage Instructions
+- 1.Unzip the file after downloading.
+- 2.The data are raw measurements without preprocessing.
+- 3.Please cite the original paper when using this dataset.
 
-## 联系方式
-邮箱：xxx@shturl.data
-data
+## Citation
+- If you use this dataset in your work, please cite:
+- Author(s). Paper Title[J]. Journal Name, Year.
+  
+## Contact
+- Email: xxx@shturl.
