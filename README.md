@@ -12,7 +12,7 @@
 - The complete raw dataset is hosted on Baidu Netdisk:
 - Link:https://pan.baidu.com/s/1AzstPxQNW-eOv1Axb6Zfeg
 - Access code: t486
-- File size：2.02 GB
+- File size：** GB
 
 ## Data Fields Description
 - Description
